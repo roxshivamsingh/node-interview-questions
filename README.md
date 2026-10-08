@@ -1,13 +1,7 @@
 # 100 Must-Know Node.js Interview Questions in 2026
 
 <div>
-<p align="center">
 
-</p>
-
-#### You can also find all 100 answers here 👉 [Devinterview.io - Node.js](https://devinterview.io/questions/web-and-mobile-development/node-interview-questions)
-
-<br>
 
 ## 1. What is Node.js and why is it used?
 
